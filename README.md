@@ -1,7 +1,6 @@
 # javastarjnr
 
-Example of using [javastar](https://github.com/tailrecursion/javastar)
-and [jnr-ffi](https://github.com/jnr/jnr-ffi/) to load native
+Example of using [jnr-ffi](https://github.com/jnr/jnr-ffi/) to load native
 libraries in Clojure.
 
 See [src/tailrecursion/javastarjnr.clj](src/tailrecursion/javastarjnr.clj).
